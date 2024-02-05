@@ -11,4 +11,4 @@ tags: [leetcode,binarytree,c]     # TAG names should always be lowercase
 4.  level-order traversal   :由上到下，由左至右，一層一層搜索       4->2->5->1->3
 
 以下圖為例:
-https://github.com/Keng-Pei/desktop-tutorial/blob/main/binarytree.png?raw=true
+![tree](https://github.com/Keng-Pei/desktop-tutorial/blob/main/binarytree.png?raw=true)
