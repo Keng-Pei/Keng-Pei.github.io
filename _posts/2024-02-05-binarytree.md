@@ -12,4 +12,4 @@ tags: [leetcode,binarytree,c]     # TAG names should always be lowercase
 
 以下圖為例:
 
-<img src="https://github.com/Keng-Pei/desktop-tutorial/blob/main/binarytree.png?raw=true" alt="Tree">
+<img src="https://github.com/Keng-Pei/desktop-tutorial/blob/main/binarytree.png" alt="Tree">
