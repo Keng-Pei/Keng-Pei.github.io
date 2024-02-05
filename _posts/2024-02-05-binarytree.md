@@ -12,4 +12,4 @@ tags: [leetcode,binarytree,c]     # TAG names should always be lowercase
 
 以下圖為例:
 
-![image](\assets\image\binarytree.png)
+![image](/assets/image/binarytree.png)
